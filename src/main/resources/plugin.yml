@@ -1,0 +1,10 @@
+name: KanaStudio
+version: '1.0-SNAPSHOT'
+main: kr.awr.kdv.kanaStudio.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ Kanna__ ]
+description: Kana's Studio Server Plugin
+commands:
+  menu:
+    description: 테스트
